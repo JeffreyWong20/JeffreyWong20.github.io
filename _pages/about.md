@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: Bio
 permalink: /
 # subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p> Email: thw20@ic.ac.uk </p>
+    <p style="font-size: 13px;;text-align: center;"> Email: thw20[at]ic[dot]ac[dot]uk <p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
